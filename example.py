@@ -17,7 +17,7 @@ Together, they shared the needle and sewed the button on Lily's shirt. It was no
 
 
 # available_voices : ['Bella', 'Jasper', 'Luna', 'Bruno', 'Rosie', 'Hugo', 'Kiki', 'Leo']
-voice = 'Luna'
+voice = 'Bruno'
 
 
 
